@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Easy Diary</string>
+    <string name="app_name">MemoryLane Alpha4</string>
     <string name="common_create_seconds">Ajouter les secondes</string>
     <string name="create_diary_title">Écrire un journal</string>
     <string name="write_date">Date</string>

@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">이지 다이어리</string>
+    <string name="app_name">MemoryLane Alpha4</string>
     <string name="common_create_seconds">Creation Seconds</string>
     <string name="create_diary_title">다이어리 쓰기</string>
     <string name="write_date">작성일</string>

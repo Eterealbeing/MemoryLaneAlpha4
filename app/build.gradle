@@ -14,7 +14,7 @@ android {
     properties.load(project.rootProject.file('local.properties').newDataInputStream())
     signingConfigs {
         config {
-            keyAlias 'android'
+            keyAlias 'key0'
             keyPassword properties.getProperty("storePassword")
             storeFile file(properties.getProperty("storeFile"))
             storePassword properties.getProperty("storePassword")
